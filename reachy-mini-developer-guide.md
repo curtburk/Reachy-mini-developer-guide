@@ -7,7 +7,7 @@
 
 <p align="center"><em>Company logos are used for identification purposes only and do not imply endorsement or official partnership unless otherwise stated.</em></p>
 
-# Reachy Mini Developer Guide: What We Wish We'd Known
+# Reachy Mini Developer Guide: What I Wish We'd Known
 
 *An unofficial field guide for developers building custom apps on the Pollen Robotics Reachy Mini, compiled from hands-on experience building and deploying a voice AI agent.*
 
@@ -15,7 +15,7 @@ This document covers setup patterns, observed behaviors, and troubleshooting app
 
 Where behaviors were observed but not confirmed by official documentation, they are noted as such. Corrections and additions are welcome.
 
-For a working example of a custom Reachy Mini app that uses these patterns, see [curtburk/consent-agent-reachy](https://huggingface.co/spaces/curtburk/consent-agent-reachy) on HuggingFace.
+For a working example of a custom Reachy Mini app that uses these patterns, see [curtburk/consent-agent-reachy](https://huggingface.co/spaces/curtburk/consent-agent-reachy) on HuggingFace Spaces.
 
 ---
 
