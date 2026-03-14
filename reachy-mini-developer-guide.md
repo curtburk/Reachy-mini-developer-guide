@@ -7,7 +7,7 @@
 
 <p align="center"><em>Company logos are used for identification purposes only and do not imply endorsement or official partnership unless otherwise stated.</em></p>
 
-# Reachy Mini Developer Guide: 
+# Reachy Mini Developer Guide
 
 ## What I Wish I'd Known Before Getting Started With The Reachy Mini
 
