@@ -1,6 +1,6 @@
 <p align="center">
   <img src="images/logo_HP_Electric_Blue_keyline.png" alt="HP" height="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/nvidia-logo.png" alt="NVIDIA" height="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/nvidia-logo-vert.png" alt="NVIDIA" height="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/hf-logo.png" alt="HuggingFace" height="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/pollen-logo.png" alt="Pollen Robotics" height="60">
 </p>
