@@ -10,6 +10,7 @@
 # Reachy Mini Developer Guide: What I Wish We'd Known
 
 *An unofficial field guide for developers building custom apps on the Pollen Robotics Reachy Mini, compiled from hands-on experience building and deploying a voice AI agent.*
+*Written and prepared by Curtis Burkhalter, Ph.D., Technical PMM @ HP*
 
 This document covers setup patterns, observed behaviors, and troubleshooting approaches that are not (as of early 2026) well-documented elsewhere. It is written for developers who are comfortable with Linux, SSH, Docker, and Python but are new to the Reachy Mini hardware and SDK.
 
